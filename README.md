@@ -14,3 +14,24 @@ View my notebook with detailed steps here:
 ### Insights
 
 Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
+
+
+
+
+# The analysis
+
+## What are in-demand skills trending for Data Engineer?
+
+
+Realiza el analisis
+
+View my notebook with detailed steps here:
+[3.Skills_Trend.ipynb](3_project/3.Skills_Trend.ipynb)
+
+## Results
+
+![Visualization of the Top Skills](3_project/Images/skills_trends.png)
+
+### Insights
+
+Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
