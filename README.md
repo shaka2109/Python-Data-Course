@@ -9,7 +9,7 @@ View my notebook with detailed steps here:
 
 ## Results
 
-![Visualization of the Top Skills](3_project\Images\skill_demand_roles.png)
+![Visualization of the Top Skills](3_project/Images/skill_demand_roles.png)
 
 ### Insights
 
