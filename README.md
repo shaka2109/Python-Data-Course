@@ -35,3 +35,22 @@ View my notebook with detailed steps here:
 ### Insights
 
 Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
+
+
+# The analysis
+
+## How well do jobs payin compare for Data Engineer?
+
+
+Realiza el analisis
+
+View my notebook with detailed steps here:
+[4.Salary_analysis.ipynb](3_project\4.Salary_analysis.ipynb)
+
+## Results
+
+![Visualization of the Top Skills](3_project/Images/Salary_analysis.png)
+
+### Insights
+
+Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
