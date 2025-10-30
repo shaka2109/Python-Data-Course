@@ -73,3 +73,22 @@ View my notebook with detailed steps here:
 ### Insights
 
 Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
+
+
+# The analysis
+
+## What is the most optimal skill to learn for Data Engineer?
+
+
+Realiza el analisis
+
+View my notebook with detailed steps here:
+[5.Optimal_skills.ipynb](3_project\5.Optimal_skills.ipynb)
+
+## Results
+
+![Visualization of the Top Skills](3_project/Images/Optimal_skills.png)
+
+### Insights
+
+Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
