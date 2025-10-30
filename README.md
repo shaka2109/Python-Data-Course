@@ -39,7 +39,7 @@ Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se
 
 # The analysis
 
-## How well do jobs payin compare for Data Engineer?
+## How well do other job roles pay compare to Data Engineer?
 
 
 Realiza el analisis
@@ -50,6 +50,25 @@ View my notebook with detailed steps here:
 ## Results
 
 ![Visualization of the Top Skills](3_project/Images/Salary_analysis.png)
+
+### Insights
+
+Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se puede concluir (holistic insights))
+
+
+# The analysis
+
+## What are the top most popular skills for Data Engineer and how well they pay in comparison with more advanced skills?
+
+
+Realiza el analisis
+
+View my notebook with detailed steps here:
+[4.Salary_analysis.ipynb](3_project/4.Salary_analysis.ipynb)
+
+## Results
+
+![Visualization of the Top Skills](3_project/Images/Skill_salary_analysis.png)
 
 ### Insights
 
