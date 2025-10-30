@@ -45,7 +45,7 @@ Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se
 Realiza el analisis
 
 View my notebook with detailed steps here:
-[4.Salary_analysis.ipynb](3_project\4.Salary_analysis.ipynb)
+[4.Salary_analysis.ipynb](3_project/4.Salary_analysis.ipynb)
 
 ## Results
 
@@ -83,7 +83,7 @@ Escribe las conclusiones (Puedes usar gpt al mostrarle la grafica y pedir que se
 Realiza el analisis
 
 View my notebook with detailed steps here:
-[5.Optimal_skills.ipynb](3_project\5.Optimal_skills.ipynb)
+[5.Optimal_skills.ipynb](3_project/5.Optimal_skills.ipynb)
 
 ## Results
 
