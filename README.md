@@ -180,3 +180,5 @@ This project came with its share of challenges, each offering valuable learning 
 # Conclusion
 
 This exploration of the data engineer job market has been highly insightful, revealing the key skills and trends driving this ever-evolving field. The findings not only deepened my understanding but also offer practical guidance for anyone seeking to grow their career. This project serves as a strong foundation for future research and highlights the importance of continuous learning and adaptability in the world of data.
+
+FUNCIONA
